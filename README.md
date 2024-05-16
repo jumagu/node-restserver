@@ -1,6 +1,8 @@
 # Getting Started
 This is a RESTful API built with Node.js and Express.js in the Udemy course **Node: From zero to expert**.
 
+Documentation: https://documenter.getpostman.com/view/20192830/2sA3JRZK3U
+
 ## Requirements
 - Node.js 20.11.0 or latest installed on your system.
 
